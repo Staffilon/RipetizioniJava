@@ -1,0 +1,28 @@
+La programmazione (a mio avviso) si basa su questi principi:
+- usare i tool più adatti all'utilizzo (Intellij vs notepad)
+- essere consci degli strumenti a nostra disposizione (la teoria per farla breve)
+- riuscire a dividere il problema in molti sottoproblemi
+- riuscire a navigare bene online (stack overflow e chatgpt)
+
+1) Fare il setup di intellij idea ultimate
+2) Vedere il livello di teoria per i vari concetti:
+    -variabili
+    -flusso di controllo
+    -string manipulation
+    -array e liste
+    -metodi
+    -modificatori di accesso
+    -static e final
+    -oggetti
+    -eccezioni
+3) Capire i vari step per comprendere e risolvere un problema:
+    - cosa chiede la consegna
+    - in che modo posso farlo
+    - come posso scomporlo in step
+4) Qual è la giusta maniera di cercare info online:
+    - consultare documentazione
+    - consultare stackoverflow (cercando di capire la risposta)
+    - usare chat gpt in maniera cosciente(usarlo come assistente)
+5) Esercizi di base:
+    -esercizi di base
+    -Calcolatrice base
